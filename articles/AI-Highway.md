@@ -23,7 +23,7 @@ The elephant in the room that every tech-bro is eager to announce:
 **AI**
 
 We can do all this with AI, don't you know?
-*Come on down to the AI store, I'll sell you a new AI. *
+*Come on down to the AI store, I'll sell you a new AI.*
 It'll make all your problems go away. It'll make you beautiful. It'll make you **lots of money**.
 
 *Everybody's* doing it... don't get left behind. C'mon kid, **don't you wanna be cool**?
@@ -40,7 +40,7 @@ It's obvious that AI is a powerful tool. Anyone that's asked Claude a question a
 
 And we can't help but get more excited when we see the *investment*... ohhhh the investment, billions - no, **trillions** of dollars pouring in to make the next big model.
 
-*But what are they investing in? *
+*But what are they investing in?*
 
 I'll tell you, not because I'm in the know, not because I built it. No, I just have it, that fancy AI system that we all want.
 
